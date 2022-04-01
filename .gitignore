@@ -1,0 +1,7 @@
+Thumbs.db
+.DS_Store
+.idea/
+out/
+.gradle
+**/build/
+!src/**/build/
